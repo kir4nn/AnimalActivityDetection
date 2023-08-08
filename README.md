@@ -10,7 +10,7 @@
 1. **Clone the Repository:** Open your terminal or command prompt and clone this repository using the following command:
 
    ```bash
-   git clone https://github.com/your-username/YoloAnimalActivityRecognition.git
+   git clone https://github.com/perpetualdarkness/AnimalActivityRecognition.git
    ```
 2. **Navigate to the Project Directory:** Change the directory to the YoloAnimalActivityRecognition project:
    ```
